@@ -1,5 +1,4 @@
-
-### Hi there 👋, Angella here...Thanks for visiting my Profile
+<h1 align="center"> Hi there 👋, Angella here...Thanks for visiting my Profile </h1>
 
 
  ## 🚀 About Me
@@ -37,7 +36,6 @@ I'm a Computer Science Student, based in Honduras 🇭🇳.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg'>
   </a>
 </p>
 </div>
