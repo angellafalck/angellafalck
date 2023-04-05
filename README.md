@@ -40,5 +40,3 @@ I'm a Computer Science Student, based in Honduras 🇭🇳.
 </p>
 </div>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
