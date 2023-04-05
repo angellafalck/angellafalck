@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**angellafalck/angellafalck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Angella here...Thanks for visiting my Profile
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🚀 About Me
+I'm a Computer Science Student, based in Honduras 🇭🇳.
+<br>
+
+            
+---
+
+## 👨🏻‍💻 GitHub Usage Stats
+<div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellafalck&layout=compact" />
+</p>
+<br>
+</div>
+
+---
+<div>
+<h4 align = "center"> Languages </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python" />
+  </a>
+</p>
+<br>
+<h4 align = "center"> Front-End </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,react,typescript,javascript" />
+  </a>
+</p>
+<br>
+<h4 align = "center"> Back-End (Basic) </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg'>
+  </a>
+</p>
+</div>
